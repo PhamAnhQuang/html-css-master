@@ -1,0 +1,3 @@
+- Cùng cấp `./`
+- Truy xuất ra ngoài 1 cấp `../`
+- display:flex nằm trên 1 hàng
