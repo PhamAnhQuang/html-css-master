@@ -125,9 +125,9 @@ body{
 
 @media screen and (min-width:768px) and (max-width:1023.98px){
   .tour-list{
-    --columns: 2;
+    --columns:
   }
-  /* .tour{
+  .tour{
     width: calc(50% - 20px);
-  } */
+  }
 }

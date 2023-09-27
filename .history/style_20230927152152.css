@@ -127,7 +127,7 @@ body{
   .tour-list{
     --columns: 2;
   }
-  /* .tour{
+  .tour{
     width: calc(50% - 20px);
-  } */
+  }
 }
