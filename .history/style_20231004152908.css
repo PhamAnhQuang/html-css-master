@@ -11,11 +11,9 @@
   --gray3: #777E90;
   --gray2: #353945;
   --gray4f:#4f4f4f;
-  --primary-font: "Inter", sans-serif;
-  --secondary-font: "DM Sans", sans-serif;
 }
 body{
-  font-family: var(--primary-color);
+  font-family: 'Inter', sans-serif;
   font-weight: 500;
 }
 .container{
@@ -171,8 +169,7 @@ body{
   font-weight: 500;
   font-size: 12px;
   line-height: 21px;
-  color: var(--gray4f);
-  font-family: var(--secondary-font);
+  color:var(--gray4f)
 }
 
 @media screen and (max-width:767.98px) {
